@@ -90,7 +90,7 @@ For running the codes you have to open 4 terminals parallelly, start the chargin
 
 You can perform the attack either from the mininet environment or from a kali machine. For launching the attack open a terminal in kali/mininet and run the command: sudo hping3 -i u1 -S -p <port> --rand-source <charging_station_ip>, here replace the ip address and port number with the charging station ip address and port number. For analyzing the impact of attack we can open the system monitor using the command: gnome-system-monitor. capture the cpu & memory utilization of the system before and after launching the attack. 
 
-**Architectural Block Diagram**
+**Charging Process in EV**
 
 ![alt text](https://github.com/AmritaCSN/Akshitha_Threat-Modeling-and-Attack-Simulation-of-Charging-Infrastructures-in-Electric-Vehicles/blob/main/ev%20communication.PNG)
 
