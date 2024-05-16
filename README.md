@@ -92,7 +92,8 @@ You can perform the attack either from the mininet environment or from a kali ma
 
 **Architectural Block Diagram**
 
-
+![EV charging topology]([url](https://github.com/AmritaCSN/Akshitha_Threat-Modeling-and-Attack-Simulation-of-Charging-Infrastructures-in-Electric-Vehicles/blob/main/mini%20topology.PNG
+))
 
 
 
