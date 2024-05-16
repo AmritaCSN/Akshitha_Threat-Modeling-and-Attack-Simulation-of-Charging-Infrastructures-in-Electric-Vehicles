@@ -92,7 +92,7 @@ You can perform the attack either from the mininet environment or from a kali ma
 
 **Architectural Block Diagram**
 
-![GitHub Logo](https://github.com/username/repository/blob/main/image.png)
+![EV communication]([https://github.com/AmritaCSN/Akshitha_Threat-Modeling-and-Attack-Simulation-of-Charging-Infrastructures-in-Electric-Vehicles/blob/main/ev%20communication.PNG])
 
 
 
